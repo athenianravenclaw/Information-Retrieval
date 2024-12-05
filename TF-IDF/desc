@@ -1,0 +1,2 @@
+TASK A: TF-IDF Vectorization
+TASK B: Evaluation using AP@10, AP@20, NDCG@10, NDCG@20
